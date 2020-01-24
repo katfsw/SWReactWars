@@ -30,7 +30,7 @@ const SWCard = ({character}) => {
             <strong>Height:</strong> {character.height}
           </CardText>
           <CardText>
-            <strong>Mass:</strong> {character.mass}
+            <strong>Weight:</strong> {character.mass}
           </CardText>
           <CardText>
             <strong>Skin Color:</strong> {character.skin_color}
